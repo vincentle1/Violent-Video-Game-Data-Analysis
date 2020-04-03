@@ -1,4 +1,4 @@
-This repository is related to this blog post. 
+This repository is related to this [blog post](https://vincentle1.netlify.com/post/violent-video-games-a-simple-data-analysis/). 
 
 - In the *create_final_data* file you will find
 all of the functions and most of the data cleaning I did.
